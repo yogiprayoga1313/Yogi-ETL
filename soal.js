@@ -25,4 +25,4 @@ p2(() =>{
 })
 
 
-// code ini beda dari soal bang, yang p3 saya kasih setTimeout
+// code ini beda dari soal bang, yang p3 saya kasih setTimeout bangggg
